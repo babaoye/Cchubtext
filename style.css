@@ -1,0 +1,60 @@
+.container{
+    margin: auto;
+}
+#header{
+    margin-left: 550px;
+    
+}
+.takehead{
+    background: #F4F1F2;
+}
+#
+#about{
+    width: 300px;
+}
+#act{
+        text-align: center;
+}
+#resize{
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+}
+.fill-text{
+    position: relative;
+    float: right;
+    width: 78%;
+    top: -20px;
+
+}
+.footer{
+text-decoration: none;
+background: #484A5D;
+height: 50%;
+}
+.floater{
+    float: right;
+    clear: both;
+}
+ li{
+    display:inline;
+    color: #1DA1F2;
+}
+.head{
+    margin-left: 80px;
+    
+}
+a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+    margin-right: 40px;
+}
+.background{
+    position: absolute;
+    top:150px;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 400px;
+}
